@@ -1,10 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Lastname;Firstname;;;
-FN:Firstname Lastname
-ORG:Company Name
-TITLE:Your Role
-TEL;TYPE=CELL:+41000000000
-EMAIL:you@example.com
-URL:https://example.com
+N: Ribas;Juan M.;;;
+FN: Juan M. Ribas
+ORG:Zarpando, Cleansailing, J Ribas
+TITLE: Manager
+TEL;TYPE=CELL:+34661923243
+EMAIL:juanmribas@icloud.com
+URL:https://cleansailing.es
 END:VCARD
